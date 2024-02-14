@@ -16,7 +16,7 @@ body{
     border-color: brown;
 }
 section{
-    background-image: url(Lord_Rama1.png);
+    background-image: url(/Lord_Rama1.png);
     background-size: cover;
     height: 80vh;
     width: auto;
